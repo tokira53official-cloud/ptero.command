@@ -584,8 +584,13 @@ while true; do
             echo -e "${P}║                 NOTRYXENYT COMMUNITY                    ║${N}"
             echo -e "${P}╚══════════════════════════════════════════════════════════╝${N}"
             echo
-            echo -e "${C}Discord:${N}"
-            echo -e "${G}https://discord.gg/2rYEHharqA${N}"
+
+            echo -e "${C}Hosting Discord Server:${N}"
+            echo -e "${G}https://discord.gg/erYrFrs8RM${N}"
+            echo
+
+            echo -e "${C}YouTube Discord Server:${N}"
+            echo -e "${G}https://discord.gg/hAkBZkbCF6${N}"
 
             pause
             ;;
